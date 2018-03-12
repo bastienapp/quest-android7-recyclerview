@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BlaBlaWild</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_text">Search</string>
+    <string name="search_an_itinerary">Search an itinerary</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+    <string name="search">Search</string>
+    <string name="search_error">Please fill departure and destination!</string>
+    <string name="title_list"><![CDATA[%s >> %s]]></string>
+    <string name="vehicle_none">Please select…</string>
+    <string name="vehicle_car">Car</string>
+    <string name="vehicle_boat">Boat</string>
+    <string name="vehicle_plane">Plane</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="add_vehicle">Add a vehicle</string>
+    <string name="send">Send</string>
+    <string name="speed">Speed</string>
+    <string name="hours">Hours</string>
+    <string name="model">Model</string>
+    <string name="brand">Brand</string>
+
+    <string-array name="spinner_vehicles">
+        <item>@string/vehicle_none</item>
+        <item>@string/vehicle_car</item>
+        <item>@string/vehicle_boat</item>
+        <item>@string/vehicle_plane</item>
+    </string-array>
+</resources>
